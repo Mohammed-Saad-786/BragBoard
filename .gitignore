@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Environments
+venv/
+backend/venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Local Databases & Testing Outputs
+*.db
+backend/bragboard.db
+BragBoard.pdf
