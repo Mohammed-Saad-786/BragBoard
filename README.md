@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=36&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Celebrate+Achievements+%F0%9F%8E%89;Recognize+Outstanding+Contributions+%F0%9F%8C%9F;Strengthen+Workplace+Culture+%F0%9F%A4%9D;Built+with+React+%2B+FastAPI+%E2%9A%A1;BragBoard+%E2%80%94+Peer+Recognition+Platform+%F0%9F%9A%80" alt="Typing SVG" /> </div>
+   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=56&pause=1500&color=3B82F6&center=true&vCenter=true&width=900&lines=Celebrate+Achievements+%F0%9F%8E%89;Recognize+Outstanding+Contributions+%F0%9F%8C%9F;Strengthen+Workplace+Culture+%F0%9F%A4%9D;Built+with+React+%2B+FastAPI+%E2%9A%A1;BragBoard+%E2%80%94+Peer+Recognition+Platform+%F0%9F%9A%80" alt="Typing SVG" /> </div>
 <div align="center">
 <br>
 
