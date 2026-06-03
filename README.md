@@ -8,8 +8,7 @@
 ![Forks](https://img.shields.io/github/forks/Mohammed-Saad-786/BragBoard?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Mohammed-Saad-786/BragBoard?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Mohammed-Saad-786/BragBoard?style=for-the-badge)
-![BragBoard Views](https://komarev.com/ghpvc/?username=Mohammed-Saad-786&label=BragBoard+Views&color=3b82f6&style=for-the-badge)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mohammed-Saad-786.BragBoard)
 ### 🚀 Building a Culture of Recognition Through Technology
 
 A modern full-stack employee engagement platform that enables organizations to celebrate achievements, recognize contributions, and strengthen workplace culture through peer-to-peer appreciation.
